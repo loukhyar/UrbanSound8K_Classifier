@@ -85,11 +85,3 @@ The UrbanSound8K dataset consists of **8,732 labeled sound excerpts** from 10 cl
    Make sure `UrbanSound8K.csv` is accessible in your path.
 
 ---
-
-## 💡 Future Improvements
-
-* Use MFCC features from raw audio for improved performance.
-* Explore CNN/LSTM models using spectrograms.
-* Hyperparameter tuning for ensemble models.
-
----
